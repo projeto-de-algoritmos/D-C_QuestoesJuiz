@@ -38,4 +38,4 @@ Para rodar os programas, você só precisa fazer o download dos códigos e carre
 
 ## Vídeo
 
-O arquivo do vídeo está disponível [aqui](apresentação.mp4) ou no [link do youtube]()
+O arquivo do vídeo está disponível [aqui](./apresentacao.mp4) ou no [link do youtube](https://youtu.be/WyOJDrcuZT4)
