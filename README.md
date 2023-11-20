@@ -14,18 +14,18 @@ Exercícios do [Beecrowd](https://www.beecrowd.com.br) com nível 5 ou mais.
   
 Exercícios escolhidos:
 
-- [Train Swapping - 1162](https://www.beecrowd.com.br/judge/en/problems/view/1162): 
+- [Train Swapping - 1162](https://www.beecrowd.com.br/judge/en/problems/view/1162)
 
-- [](https://www.beecrowd.com.br/): 
+- [Bubbles and Buckets - 1088](https://www.beecrowd.com.br/judge/en/problems/view/1088)
 
-- [](https://www.beecrowd.com.br/):
+- [](https://www.beecrowd.com.br/)
   
-- [](https://www.beecrowd.com.br/):
+- [](https://www.beecrowd.com.br/)
   
 ## Screenshots
 
 ![Accepted 1162](./Train_Swapping_1162/1162.png)
-![Accepted ]()
+![Accepted 1088](./Bubbles_and_Buckets_1088/1088.png)
 ![Accepted ]()
 ![Accepted ]()
 
